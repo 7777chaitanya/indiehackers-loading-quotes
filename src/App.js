@@ -38,7 +38,7 @@ function App() {
       {quotesList.map((eachQuote, index) => {
         return (
           <div className='quoteCard'>
-            <h1>{index}{") "}{eachQuote.quote}</h1>
+            <h1>{index+1}{") "}{eachQuote.quote}</h1>
             <p>{eachQuote.byline}</p>
           </div>
         );
