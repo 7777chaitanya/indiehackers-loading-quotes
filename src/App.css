@@ -2,14 +2,13 @@
   text-align: center;
 }
 
-h1 {
+h2 {
   background: -webkit-linear-gradient(greenyellow, green);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .quoteCard{
-  border: 5px solid greenyellow;
   border-radius: 25px;
-  margin: 5px 20px;
+  margin: 20px;
 }
