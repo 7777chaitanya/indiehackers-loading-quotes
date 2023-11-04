@@ -1,8 +1,10 @@
 .App {
   text-align: center;
+  margin-top: 0;
+
 }
 
-h2 {
+h1 {
   background: -webkit-linear-gradient(greenyellow, green);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -11,4 +13,16 @@ h2 {
 .quoteCard{
   border-radius: 25px;
   margin: 20px;
+  margin-bottom: 0px;
+}
+
+h2{
+  color: white;
+  background: -webkit-linear-gradient(rgb(223, 156, 156), pink);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p{
+  color: white;
 }

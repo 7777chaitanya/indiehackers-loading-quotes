@@ -11,7 +11,7 @@ function App() {
         return (
           <div className='quoteCard'>
             <h2>{index+1}{") "}{eachQuote.quote}</h2>
-            <p>{eachQuote.byline}</p>
+            <p>{"-  "}{eachQuote.byline}</p>
           </div>
         );
       })}
