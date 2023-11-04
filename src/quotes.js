@@ -490,10 +490,6 @@ export const quotes = [
         "url": "https://www.indiehackers.com/interview/70a2c06da1a"
     },
     {
-        "byline": "Austin Ginder of Anchor Hosting ($21K/mo)",
-        "quote": "It's completely fine if you don't know what you're doing."
-    },
-    {
         "byline": "Aurelien Amacker of Systeme.io ($50K/mo)",
         "quote": "You can’t get anything out if you don’t put anything in.",
         "url": "https://www.indiehackers.com/interview/how-i-built-a-better-team-and-grew-revenue-to-50k-mrr-ce4055dcd1"
@@ -512,10 +508,6 @@ export const quotes = [
         "byline": "Alexander Lashkov of Linguix.com ($1K/mo)",
         "quote": "When everyone has a real stake in the outcome, things tend to get done, and to get done well.",
         "url": "https://www.indiehackers.com/interview/how-i-scratched-my-own-itch-and-discovered-an-untapped-market-d9fe88d6df"
-    },
-    {
-        "byline": "Alexander Lashkov of Linguix.com ($1K/mo)",
-        "quote": "Giving up a fraction of $1,000,000 is better than owning 100% of a company with zero revenue."
     },
     {
         "byline": "Alexander Lashkov of Linguix.com ($1K/mo)",
